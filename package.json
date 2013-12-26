@@ -1,0 +1,9 @@
+{
+    "name": "mysqlInterface",
+    "description": "a way to connect phantom to mysql",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "3.x"
+    }
+}
