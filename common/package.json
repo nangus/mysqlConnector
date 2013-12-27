@@ -1,0 +1,8 @@
+{
+    "name": "mysqlTest",
+    "description": "testing of mysql module",
+    "version": "0.0.1",
+    "dependencies": {
+        "mysql" : "2.0.X"
+    }
+}
