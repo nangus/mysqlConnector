@@ -1,9 +1,12 @@
 {
-    "name": "mysqlInterface",
-    "description": "a way to connect phantom to mysql",
-    "version": "0.0.1",
-    "private": true,
-    "dependencies": {
-        "express": "3.x"
-    }
+  "name": "phantomjs-tools",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nangus/phantomjs-tools.git"
+  },
+  "dependencies": {
+    "express"   : "3.4.x",
+    "mysql"     : "2.x"
+  }
 }
